@@ -1,0 +1,143 @@
+Survey_Id,,,,,,,,,,,Crossing_Type,,,,,,,,GPS_X_Coordinate,GPS_Y_Coordinate,,Inlet_Type,,Number_Of_Culverts,,,Road_Fill_Height,,,,,,,,Naacc_Culvert_Id,,,,Crossing_Structure_Length,,,,Inlet_Height,Inlet_Structure_Type,Inlet_Substrate_Water_Width,Inlet_Water_Depth,Inlet_Width,,Material,,,,,,,,,,,,Slope_Percent
+10959,,,,,,,,,,,Multiple Culverts,,,,,,,,-74.189856,42.449188,,Wingwall,,2,,,-7.2,,,,,,,,11196,,,,33,,,,7.2,Elliptical Culvert Embedded or with Persistent Water,5,4,12,,Steel / Metal,,,,,,,,,,,,6.7
+10959,,,,,,,,,,,Multiple Culverts,,,,,,,,-74.189856,42.449188,,Wingwall,,2,,,-6.5,,,,,,,,11197,,,,32,,,,6.5,Elliptical Culvert Embedded or with Persistent Water,5,4,11,,Steel / Metal,,,,,,,,,,,,6.7
+10962,,,,,,,,,,,Single Culvert,,,,,,,,-74.193365,42.446386,,Wingwall,,1,,,0,,,,,,,,11200,,,,50,,,,0,Round Culvert,0,0,2,,Concrete,,,,,,,,,,,,2.5
+10957,,,,,,,,,,,Single Culvert,,,,,,,,-74.173696,42.462433,,Other,,1,,,0,,,,,,,,11194,,,,1,,,,0,Round Culvert,0,0,2.2,,Steel / Metal,,,,,,,,,,,,-2
+10958,,,,,,,,,,,Single Culvert,,,,,,,,-74.188523,42.451363,,Headwall,,1,,,0,,,,,,,,12021,,,,59,,,,0,Round Culvert,0,0,2.8,,Concrete,,,,,,,,,,,,6.2
+10961,,,,,,,,,,,Single Culvert,,,,,,,,-74.191668,42.447685,,Wingwall,,1,,,-1.6,,,,,,,,11199,,,,50,,,,1.6,Round Culvert Embedded or with Persistent Water,0.2,1,2.2,,Steel / Metal,,,,,,,,,,,,6
+10963,,,,,,,,,,,Single Culvert,,,,,,,,-74.193951,42.445455,,Wingwall,,1,,,-7.3,,,,,,,,11201,,,,40,,,,7.3,Bridge with Abutments,0,4,32,,Concrete,,,,,,,,,,,,1.2
+10964,,,,,,,,,,,Single Culvert,,,,,,,,-74.194336,42.445371,,Wingwall,,1,,,0,,,,,,,,11202,,,,50,,,,0,Round Culvert,0,0,5,,Steel / Metal,,,,,,,,,,,,3.5
+10965,,,,,,,,,,,Single Culvert,,,,,,,,-74.200955,42.440338,,Other,,1,,,0,,,,,,,,11203,,,,44,,,,0,Round Culvert,0,0,1.8,,Plastic,,,,,,,,,,,,3.4
+11759,,,,,,,,,,,Single Culvert,,,,,,,,-74.200955,42.440338,,Other,,1,,,0,,,,,,,,12016,,,,44,,,,0,Round Culvert,0,0,1.8,,Plastic,,,,,,,,,,,,3.4
+11761,,,,,,,,,,,Single Culvert,,,,,,,,-74.194336,42.445371,,Wingwall,,1,,,0,,,,,,,,12017,,,,50,,,,0,Round Culvert,0,0,5,,Steel / Metal,,,,,,,,,,,,3.5
+11762,,,,,,,,,,,Single Culvert,,,,,,,,-74.191668,42.447685,,Wingwall,,1,,,-1.6,,,,,,,,12018,,,,50,,,,1.6,Round Culvert Embedded or with Persistent Water,0.2,1,2.2,,Steel / Metal,,,,,,,,,,,,6
+11763,,,,,,,,,,,Single Culvert,,,,,,,,-74.188523,42.451363,,Headwall,,1,,,0,,,,,,,,12019,,,,59,,,,0,Round Culvert,0,0,2.8,,Concrete,,,,,,,,,,,,6.2
+11764,,,,,,,,,,,Single Culvert,,,,,,,,-74.188523,42.451363,,Headwall,,1,,,0,,,,,,,,12020,,,,59,,,,0,Round Culvert,0,0,2.8,,Concrete,,,,,,,,,,,,6.2
+10960,,,,,,,,,,,Single Culvert,,,,,,,,-74.190028,42.44936,,Wingwall,,1,,,0,,,,,,,,11198,,,,49,,,,0,Round Culvert,0,0,2,,Steel / Metal,,,,,,,,,,,,2.7
+11766,,,,,,,,,,,Single Culvert,,,,,,,,-74.191668,42.447685,,Wingwall,,1,,,-1.6,,,,,,,,12022,,,,50,,,,1.6,Round Culvert Embedded or with Persistent Water,0.2,1,2.2,,Steel / Metal,,,,,,,,,,,,6
+10874,,,,,,,,,,,Bridge,,,,,,,,-74.225035,42.455006,,Wingwall,,1,,,-4.3,,,,,,,,11111,,,,29,,,,4.3,Bridge with Abutments,0,0,20,,Concrete,,,,,,,,,,,,0.9
+10869,,,,,,,,,,,Bridge,,,,,,,,-74.24254,42.468481,,Wingwall,,1,,,-8,,,,,,,,11106,,,,36,,,,8,Bridge with Abutments,0,0,22,,Concrete,,,,,,,,,,,,2.2
+11004,,,,,,,,,,,Single Culvert,,,,,,,,-74.201346,42.434216,,Wingwall,,1,,,-8.5,,,,,,,,11242,,,,95,,,,8.5,Box Culvert,0,0,16,,Concrete,,,,,,,,,,,,13.7
+10991,,,,,,,,,,,Bridge,,,,,,,,-74.203723,42.437435,,Wingwall,,1,,,-14,,,,,,,,11229,,,,14.5,,,,14,Bridge with Abutments,0,19,75,,Concrete,,,,,,,,,,,,0.5
+10993,,,,,,,,,,,Bridge,,,,,,,,-74.180915,42.46264,,Projecting,,1,,,-12.3,,,,,,,,11231,,,,48,,,,12.3,Bridge with Abutments,0,7,2.5,,Concrete,,,,,,,,,,,,0.4
+10912,,,,,,,,,,,Single Culvert,,,,,,,,-74.18535,42.489835,,Wingwall,,1,,,-1.3,,,,,,,,11149,,,,19,,,,1.3,Round Culvert Embedded or with Persistent Water,1.2,1,1.7,,Steel / Metal,,,,,,,,,,,,2.7
+10935,,,,,,,,,,,Single Culvert,,,,,,,,-74.21593,42.464556,,Headwall,,1,,,0,,,,,,,,11172,,,,30.4,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,1.4
+10940,,,,,,,,,,,Single Culvert,,,,,,,,-74.198481,42.491881,,Headwall and Wingwall,,1,,,-4.9,,,,,,,,11177,,,,40,,,,4.9,Round Culvert Embedded or with Persistent Water,1,1,5,,Steel / Metal,,,,,,,,,,,,2.8
+10943,,,,,,,,,,,Single Culvert,,,,,,,,-74.208103,42.48401,,Headwall,,1,,,-2.4,,,,,,,,11180,,,,40,,,,2.4,Round Culvert Embedded or with Persistent Water,1.6,1,2.5,,Steel / Metal,,,,,,,,,,,,3.7
+10952,,,,,,,,,,,Single Culvert,,,,,,,,-74.188933,42.436541,,Headwall,,1,,,0,,,,,,,,11189,,,,24.5,,,,0,Round Culvert,0,0,0.5,,Plastic,,,,,,,,,,,,2.2
+10954,,,,,,,,,,,Single Culvert,,,,,,,,-74.183375,42.437206,,Headwall,,1,,,-2.4,,,,,,,,11191,,,,43.1,,,,2.4,Round Culvert Embedded or with Persistent Water,1,1,2,,Steel / Metal,,,,,,,,,,,,5.6
+10955,,,,,,,,,,,Single Culvert,,,,,,,,-74.179303,42.437665,,Headwall,,1,,,0,,,,,,,,11192,,,,30,,,,0,Round Culvert,0,0,1.3,,Steel / Metal,,,,,,,,,,,,4.3
+10956,,,,,,,,,,,Single Culvert,,,,,,,,-74.181395,42.435121,,Headwall,,1,,,-1.5,,,,,,,,11193,,,,34.5,,,,1.5,Round Culvert Embedded or with Persistent Water,1.2,3,1.5,,Steel / Metal,,,,,,,,,,,,1.6
+10978,,,,,,,,,,,Single Culvert,,,,,,,,-74.177033,42.495408,,Headwall,,1,,,-0.6,,,,,,,,11216,,,,26.8,,,,0.6,Round Culvert Embedded or with Persistent Water,0.5,3,0.8,,Steel / Metal,,,,,,,,,,,,1.8
+10981,,,,,,,,,,,Single Culvert,,,,,,,,-74.194433,42.499318,,Headwall,,1,,,0,,,,,,,,11219,,,,28.8,,,,0,Round Culvert,0,0,1.5,,Steel / Metal,,,,,,,,,,,,2.9
+10995,,,,,,,,,,,Single Culvert,,,,,,,,-74.185041,42.474871,,Headwall,,1,,,0,,,,,,,,11233,,,,36,,,,0,Round Culvert,0,0,2,,Steel / Metal,,,,,,,,,,,,2.9
+11010,,,,,,,,,,,Single Culvert,,,,,,,,-74.214786,42.488016,,Headwall,,1,,,-0.9,,,,,,,,11248,,,,42,,,,0.9,Round Culvert Embedded or with Persistent Water,1.2,0,1.2,,Steel / Metal,,,,,,,,,,,,1
+10913,,,,,,,,,,,Single Culvert,,,,,,,,-74.185528,42.48461,,Wingwall,,1,,,0,,,,,,,,11150,,,,40,,,,0,Round Culvert,0,0,3.5,,Steel / Metal,,,,,,,,,,,,1.5
+10925,,,,,,,,,,,Single Culvert,,,,,,,,-74.199123,42.42647,,Headwall,,1,,,-1,,,,,,,,11162,,,,40.9,,,,1,Round Culvert Embedded or with Persistent Water,1.3,4,1.6,,Plastic,,,,,,,,,,,,0.4
+10926,,,,,,,,,,,Single Culvert,,,,,,,,-74.200691,42.428281,,Projecting,,1,,,0,,,,,,,,11163,,,,30.4,,,,0,Round Culvert,0,0,1.5,,Steel / Metal,,,,,,,,,,,,3.7
+10927,,,,,,,,,,,Single Culvert,,,,,,,,-74.18733,42.506181,,Headwall,,1,,,0,,,,,,,,11164,,,,39,,,,0,Round Culvert,0,0,1.5,,Concrete,,,,,,,,,,,,7.6
+10928,,,,,,,,,,,Single Culvert,,,,,,,,-74.18763,42.506515,,Headwall,,1,,,0,,,,,,,,11165,,,,44,,,,0,Round Culvert,0,0,2,,Concrete,,,,,,,,,,,,3.3
+10929,,,,,,,,,,,Single Culvert,,,,,,,,-74.184521,42.504505,,Headwall,,1,,,-1.4,,,,,,,,11166,,,,41,,,,1.4,Round Culvert Embedded or with Persistent Water,0.4,1,1.5,,Plastic,,,,,,,,,,,,5.1
+10930,,,,,,,,,,,Single Culvert,,,,,,,,-74.190273,42.50066,,Wingwall,,1,,,0,,,,,,,,11167,,,,37.5,,,,0,Round Culvert,0,0,7,,Steel / Metal,,,,,,,,,,,,5.8
+10933,,,,,,,,,,,Single Culvert,,,,,,,,-74.216081,42.473981,,Headwall,,1,,,0,,,,,,,,11170,,,,40,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,5.4
+10934,,,,,,,,,,,Single Culvert,,,,,,,,-74.216741,42.470461,,Headwall and Wingwall,,1,,,0,,,,,,,,11171,,,,40.7,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,5
+10936,,,,,,,,,,,Single Culvert,,,,,,,,-74.215025,42.46246,,Headwall,,1,,,0,,,,,,,,11173,,,,30.2,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,1.4
+10937,,,,,,,,,,,Single Culvert,,,,,,,,-74.212956,42.456563,,Wingwall,,1,,,0,,,,,,,,11174,,,,40.3,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,3.7
+10938,,,,,,,,,,,Single Culvert,,,,,,,,-74.212228,42.455463,,Headwall and Wingwall,,1,,,0,,,,,,,,11175,,,,40,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,7.8
+10939,,,,,,,,,,,Single Culvert,,,,,,,,-74.209396,42.449238,,Headwall,,1,,,0,,,,,,,,11176,,,,40.3,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,6.8
+10941,,,,,,,,,,,Single Culvert,,,,,,,,-74.203848,42.48972,,Headwall,,1,,,0,,,,,,,,11178,,,,40.5,,,,0,Round Culvert,0,12,3,,Plastic,,,,,,,,,,,,1.3
+10942,,,,,,,,,,,Single Culvert,,,,,,,,-74.205678,42.487448,,Headwall,,1,,,0,,,,,,,,11179,,,,35,,,,0,Round Culvert,0,0,2.5,,Steel / Metal,,,,,,,,,,,,5.3
+10944,,,,,,,,,,,Single Culvert,,,,,,,,-74.215125,42.479741,,Headwall and Wingwall,,1,,,0,,,,,,,,11181,,,,41,,,,0,Round Culvert,0,0,2.5,,Steel / Metal,,,,,,,,,,,,2.3
+10945,,,,,,,,,,,Single Culvert,,,,,,,,-74.215916,42.476376,,Projecting,,1,,,-1.9,,,,,,,,11182,,,,39.5,,,,1.9,Round Culvert Embedded or with Persistent Water,0.9,1,2,,Plastic,,,,,,,,,,,,2.3
+10946,,,,,,,,,,,Single Culvert,,,,,,,,-74.196562,42.46815,,Projecting,,1,,,0,,,,,,,,11183,,,,40.4,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,3.3
+10947,,,,,,,,,,,Single Culvert,,,,,,,,-74.199522,42.467677,,Headwall,,1,,,0,,,,,,,,11184,,,,50.5,,,,0,Round Culvert,0,0,1.4,,Plastic,,,,,,,,,,,,6
+10948,,,,,,,,,,,Single Culvert,,,,,,,,-74.201166,42.43439,,Headwall and Wingwall,,1,,,0,,,,,,,,11185,,,,62,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,7.7
+10949,,,,,,,,,,,Single Culvert,,,,,,,,-74.198546,42.435375,,Projecting,,1,,,0,,,,,,,,11186,,,,61,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,78
+10950,,,,,,,,,,,Single Culvert,,,,,,,,-74.19773,42.43542,,Projecting,,1,,,0,,,,,,,,11187,,,,41,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,7.8
+10951,,,,,,,,,,,Single Culvert,,,,,,,,-74.19773,42.43584,,Projecting,,1,,,0,,,,,,,,11188,,,,39.5,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,3.4
+10953,,,,,,,,,,,Single Culvert,,,,,,,,-74.18648,42.436841,,Headwall,,1,,,-2,,,,,,,,11190,,,,34.5,,,,2,Round Culvert Embedded or with Persistent Water,1.5,4,2,,Steel / Metal,,,,,,,,,,,,1.7
+10979,,,,,,,,,,,Single Culvert,,,,,,,,-74.175758,42.489805,,Headwall,,1,,,0,,,,,,,,11217,,,,31,,,,0,Round Culvert,0,0,1.2,,Plastic,,,,,,,,,,,,0.9
+10980,,,,,,,,,,,Single Culvert,,,,,,,,-74.175875,42.462693,,Projecting,,1,,,0,,,,,,,,11218,,,,51,,,,0,Round Culvert,0,0,1.3,,Steel / Metal,,,,,,,,,,,,3.7
+10982,,,,,,,,,,,Single Culvert,,,,,,,,-74.202157,42.499357,,Headwall,,1,,,0,,,,,,,,11220,,,,22,,,,0,Round Culvert,0,0,1.5,,Steel / Metal,,,,,,,,,,,,5.3
+10983,,,,,,,,,,,Single Culvert,,,,,,,,-74.197958,42.499413,,Headwall,,1,,,0,,,,,,,,11221,,,,25.5,,,,0,Round Culvert,0,0,1.6,,Steel / Metal,,,,,,,,,,,,5.3
+10994,,,,,,,,,,,Single Culvert,,,,,,,,-74.184343,42.463045,,Projecting,,1,,,0,,,,,,,,11232,,,,56,,,,0,Round Culvert,0,0,1.3,,Steel / Metal,,,,,,,,,,,,5.7
+10996,,,,,,,,,,,Single Culvert,,,,,,,,-74.184321,42.462936,,Headwall,,1,,,0,,,,,,,,11234,,,,50.5,,,,0,Round Culvert,0,0,1.1,,Plastic,,,,,,,,,,,,1
+11000,,,,,,,,,,,Single Culvert,,,,,,,,-74.185311,42.468961,,Projecting,,1,,,0,,,,,,,,11238,,,,35,,,,0,Round Culvert,0,0,1.4,,Plastic,,,,,,,,,,,,3.8
+11001,,,,,,,,,,,Single Culvert,,,,,,,,-74.185263,42.471151,,Headwall,,1,,,0,,,,,,,,11239,,,,41.4,,,,0,Round Culvert,0,0,1.4,,Steel / Metal,,,,,,,,,,,,2.1
+11002,,,,,,,,,,,Single Culvert,,,,,,,,-74.1853,42.471506,,Headwall,,1,,,0,,,,,,,,11240,,,,36,,,,0,Round Culvert,0,0,2.9,,Steel / Metal,,,,,,,,,,,,4.8
+11003,,,,,,,,,,,Single Culvert,,,,,,,,-74.185111,42.473846,,Headwall,,1,,,0,,,,,,,,11241,,,,24,,,,0,Round Culvert,0,0,3.5,,Steel / Metal,,,,,,,,,,,,3.8
+11005,,,,,,,,,,,Single Culvert,,,,,,,,-74.211686,42.50509,,Headwall,,1,,,0,,,,,,,,11243,,,,30.5,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,6.5
+11006,,,,,,,,,,,Single Culvert,,,,,,,,-74.210846,42.505518,,Headwall and Wingwall,,1,,,0,,,,,,,,11244,,,,30,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,6.5
+11009,,,,,,,,,,,Single Culvert,,,,,,,,-74.21593,42.493106,,Other,,1,,,0,,,,,,,,11247,,,,18,,,,0,Round Culvert,0,0,1.2,,Plastic,,,,,,,,,,,,3.3
+11012,,,,,,,,,,,Single Culvert,,,,,,,,-74.208846,42.444241,,Wingwall,,1,,,0,,,,,,,,11250,,,,15.7,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,6.5
+11017,,,,,,,,,,,Single Culvert,,,,,,,,-74.193902,42.460488,,Wingwall,,1,,,0,,,,,,,,11255,,,,56,,,,0,Round Culvert,0,0,0.7,,Steel / Metal,,,,,,,,,,,,4.4
+11019,,,,,,,,,,,Single Culvert,,,,,,,,-74.194418,42.46727,,Headwall,,1,,,0,,,,,,,,11257,,,,40,,,,0,Round Culvert,0,0,1.7,,Steel / Metal,,,,,,,,,,,,3.3
+11020,,,,,,,,,,,Single Culvert,,,,,,,,-74.19718,42.4718,,Headwall,,1,,,0,,,,,,,,11258,,,,28,,,,0,Round Culvert,0,0,1.2,,Plastic,,,,,,,,,,,,3.1
+11021,,,,,,,,,,,Single Culvert,,,,,,,,-74.196885,42.474538,,Projecting,,1,,,0,,,,,,,,11259,,,,33.3,,,,0,Round Culvert,0,0,1.2,,Plastic,,,,,,,,,,,,2.5
+11022,,,,,,,,,,,Single Culvert,,,,,,,,-74.197156,42.48613,,Headwall,,1,,,0,,,,,,,,11260,,,,40.3,,,,0,Round Culvert,0,0,1.9,,Plastic,,,,,,,,,,,,3.5
+11024,,,,,,,,,,,Single Culvert,,,,,,,,-74.209885,42.454083,,Headwall,,1,,,0,,,,,,,,11262,,,,40.3,,,,0,Round Culvert,0,0,1.5,,Plastic,,,,,,,,,,,,5.3
+10924,,,,,,,,,,,Single Culvert,,,,,,,,-74.19829,42.425356,,Projecting,,1,,,0,,,,,,,,11161,,,,41.5,,,,0,Round Culvert,0,0,2,,Plastic,,,,,,,,,,,,1.7
+10992,,,,,,,,,,,Single Culvert,,,,,,,,-74.17937,42.462213,,Wingwall,,1,,,-2.4,,,,,,,,11230,,,,82,,,,2.4,Round Culvert Embedded or with Persistent Water,0.7,1,2.5,,Plastic,,,,,,,,,,,,3.6
+10997,,,,,,,,,,,Single Culvert,,,,,,,,-74.18467,42.464316,,Projecting,,1,,,-3.9,,,,,,,,11235,,,,41,,,,3.9,Round Culvert Embedded or with Persistent Water,0.6,1,4,,Steel / Metal,,,,,,,,,,,,7
+10998,,,,,,,,,,,Single Culvert,,,,,,,,-74.185348,42.466173,,Headwall,,1,,,0,,,,,,,,11236,,,,31,,,,0,Round Culvert,0,0,1.9,,Plastic,,,,,,,,,,,,2.1
+10999,,,,,,,,,,,Single Culvert,,,,,,,,-74.185571,42.467181,,Wingwall,,1,,,-2,,,,,,,,11237,,,,31,,,,2,Round Culvert Embedded or with Persistent Water,0.5,1,2.1,,Steel / Metal,,,,,,,,,,,,4.6
+11007,,,,,,,,,,,Single Culvert,,,,,,,,-74.210173,42.507278,,Headwall and Wingwall,,1,,,-5.7,,,,,,,,11245,,,,36.3,,,,5.7,Round Culvert Embedded or with Persistent Water,1.6,3,5.8,,Steel / Metal,,,,,,,,,,,,3
+11008,,,,,,,,,,,Single Culvert,,,,,,,,-74.216676,42.496623,,Headwall,,1,,,0,,,,,,,,11246,,,,26,,,,0,Round Culvert,0,0,3,,Steel / Metal,,,,,,,,,,,,4
+11015,,,,,,,,,,,Single Culvert,,,,,,,,-74.220685,42.471763,,Headwall,,1,,,0,,,,,,,,11253,,,,29.5,,,,0,Round Culvert,0,0,2,,Steel / Metal,,,,,,,,,,,,2.3
+11018,,,,,,,,,,,Single Culvert,,,,,,,,-74.192502,42.465377,,Projecting,,1,,,-1.9,,,,,,,,11256,,,,37.6,,,,1.9,Round Culvert Embedded or with Persistent Water,1.4,3,2,,Plastic,,,,,,,,,,,,1.2
+11023,,,,,,,,,,,Single Culvert,,,,,,,,-74.197558,42.491962,,Headwall,,1,,,-1.1,,,,,,,,11261,,,,29,,,,1.1,Round Culvert Embedded or with Persistent Water,0.9,1,1.2,,Steel / Metal,,,,,,,,,,,,7.6
+21770,,,,,,,,,,,Bridge,,,,,,,,-73.769431,42.606639,,Headwall and Wingwalls,,1,,,4,,,,,,,,21931,,,,46,,,,4.5,Box/Bridge with Abutments,5.8,0.8,5.8,,Concrete,,,,,,,,,,,,3.8
+42308,,,,,,,,,,,Bridge,,,,,,,,-74.00116,42.64931,,Headwall,,1,,,1.1,,,,,,,,42790,,,,8,,,,2.7,Bridge with Side Slopes,11.9,0,17.3,,Wood,,,,,,,,,,,,-1
+42483,,,,,,,,,,,Bridge,,,,,,,,-73.779,42.5168,,Headwall,,1,,,0.6,,,,,,,,42976,,,,10,,,,5,Bridge with Side Slopes,30,3.5,38,,Metal,,,,,,,,,,,,-1
+48981,,,,,,,,,,,Bridge,,,,,,,,-73.925454,42.468859,,None,,1,,,0,,,,,,,,53264,,,,33.4,,,,12.7,Box/Bridge with Abutments,9,0.1,31.5,,Combination,,,,,,,,,,,,0
+49035,,,,,,,,,,,Bridge,,,,,,,,-73.846395,42.463679,,Headwall,,1,,,2.1,,,,,,,,48336,,,,17,,,,13.6,Bridge with Abutments and Side Slopes,35.9,2.4,37.9,,Combination,,,,,,,,,,,,0
+49378,,,,,,,,,,,Bridge,,,,,,,,-73.793967,42.47869,,None,,1,,,0,,,,,,,,53332,,,,29,,,,18.2,Bridge with Abutments and Side Slopes,52.3,2.4,90.1,,Combination,,,,,,,,,,,,0
+49379,,,,,,,,,,,Bridge,,,,,,,,-73.794287,42.477178,,None,,1,,,0,,,,,,,,53344,,,,49.8,,,,16.3,Box/Bridge with Abutments,98,0.8,125,,Combination,,,,,,,,,,,,0
+51594,,,,,,,,,,,Bridge,,,,,,,,-73.82136,42.51924,,None,,1,,,0,,,,,,,,53306,,,,16.4,,,,13.6,Box/Bridge with Abutments,55.6,3.8,66.7,,Combination,,,,,,,,,,,,0
+53036,,,,,,,,,,,Bridge,,,,,,,,-73.884223,42.532904,,Headwall and Wingwalls,,1,,,3,,,,,,,,51822,,,,27.5,,,,8.8,Box/Bridge with Abutments,14.6,3.2,14.6,,Concrete,,,,,,,,,,,,0.5
+51512,,,,,,,,,,,Buried Stream,,,,,,,,-73.800808,42.471557,, ,,1,,,-1,,,,,,,,0,,,,0,,,,0, ,0,0,0,, ,,,,,,,,,,,,0
+54906,,,,,,,,,,,Buried Stream,,,,,,,,-73.850877,42.518983,, ,,1,,,-1,,,,,,,,0,,,,0,,,,0, ,0,0,0,, ,,,,,,,,,,,,0
+42482,,,,,,,,,,,Culvert,,,,,,,,-73.771,42.532,,Projecting,,1,,,1,,,,,,,,42975,,,,25,,,,0.9,Round Culvert,0.2,0,1,,Concrete,,,,,,,,,,,,-1
+48238,,,,,,,,,,,Culvert,,,,,,,,-73.930567,42.531328,,Headwall,,1,,,1.5,,,,,,,,47671,,,,42.3,,,,5,Round Culvert,1.3,0.1,4.8,,Concrete,,,,,,,,,,,,5.3
+48959,,,,,,,,,,,Culvert,,,,,,,,-73.961494,42.53564,,Projecting,,1,,,0.4,,,,,,,,48279,,,,20,,,,1.1,Round Culvert,0.4,0.05,1.5,,Metal,,,,,,,,,,,,1.1
+48960,,,,,,,,,,,Culvert,,,,,,,,-73.962958,42.511627,,Wingwalls,,1,,,3.2,,,,,,,,48280,,,,56.1,,,,2.7,Round Culvert,1,0.2,2.3,,Plastic,,,,,,,,,,,,5.3
+48966,,,,,,,,,,,Culvert,,,,,,,,-73.950444,42.52571,,Wingwalls,,1,,,3,,,,,,,,48284,,,,60.9,,,,5,Pipe Arch/Elliptical Culvert,1.8,0.1,5.9,,Metal,,,,,,,,,,,,4
+48968,,,,,,,,,,,Culvert,,,,,,,,-73.95074,42.52559,,Wingwalls,,1,,,8.3,,,,,,,,48286,,,,100,,,,5.2,Pipe Arch/Elliptical Culvert,1.8,0.1,4.7,,Metal,,,,,,,,,,,,4.2
+48977,,,,,,,,,,,Culvert,,,,,,,,-73.908098,42.475795,,None,,1,,,1.8,,,,,,,,48292,,,,46.3,,,,5,Box Culvert,5,1.5,14,,Concrete,,,,,,,,,,,,1.3
+48993,,,,,,,,,,,Culvert,,,,,,,,-73.942717,42.451628,,Projecting,,1,,,2.2,,,,,,,,48304,,,,70.7,,,,4.7,Round Culvert,1.5,0.1,5,,Metal,,,,,,,,,,,,2.9
+49000,,,,,,,,,,,Culvert,,,,,,,,-73.893622,42.471105,,Headwall and Wingwalls,,1,,,2.5,,,,,,,,48309,,,,71.7,,,,6.6,Pipe Arch/Elliptical Culvert,5.8,0.3,8.3,,Metal,,,,,,,,,,,,5
+49001,,,,,,,,,,,Culvert,,,,,,,,-73.894604,42.47872,,Wingwalls,,1,,,0.6,,,,,,,,48310,,,,54,,,,5,Box Culvert,5.2,0.1,5.2,,Concrete,,,,,,,,,,,,0.7
+49005,,,,,,,,,,,Culvert,,,,,,,,-73.868792,42.528583,,Projecting,,1,,,3.7,,,,,,,,48312,,,,54.4,,,,2.9,Pipe Arch/Elliptical Culvert,2.9,1.6,5.7,,Metal,,,,,,,,,,,,1.5
+49007,,,,,,,,,,,Culvert,,,,,,,,-73.850765,42.518997,,Headwall,,1,,,4.1,,,,,,,,48313,,,,60.5,,,,4,Round Culvert,1.6,0.3,4.1,,Combination,,,,,,,,,,,,3.5
+49008,,,,,,,,,,,Culvert,,,,,,,,-73.842148,42.516561,,Headwall,,1,,,2.6,,,,,,,,48314,,,,63.5,,,,2,Round Culvert,0.6,0.05,2,,Metal,,,,,,,,,,,,14.8
+49009,,,,,,,,,,,Culvert,,,,,,,,-73.827684,42.497715,,Headwall,,1,,,6.3,,,,,,,,48319,,,,72.5,,,,3,Round Culvert,0,0,3,,Combination,,,,,,,,,,,,8.5
+49011,,,,,,,,,,,Culvert,,,,,,,,-73.81672,42.511418,,Projecting,,1,,,4.2,,,,,,,,48320,,,,41,,,,21,Bridge with Abutments and Side Slopes,51,1,103,,Combination,,,,,,,,,,,,0
+49018,,,,,,,,,,,Culvert,,,,,,,,-73.819143,42.490813,,Projecting,,1,,,3.4,,,,,,,,48327,,,,50,,,,2,Round Culvert,2,0.7,2,,Concrete,,,,,,,,,,,,4
+49020,,,,,,,,,,,Culvert,,,,,,,,-73.819765,42.493245,,Headwall,,1,,,5.5,,,,,,,,48330,,,,57,,,,2.7,Box Culvert,3.1,1.3,3.1,,Concrete,,,,,,,,,,,,0.7
+49040,,,,,,,,,,,Culvert,,,,,,,,-73.830027,42.467682,,Headwall,,1,,,2.6,,,,,,,,48340,,,,58,,,,1.5,Box Culvert,0,0,2.2,,Concrete,,,,,,,,,,,,3
+51592,,,,,,,,,,,Culvert,,,,,,,,-73.820164,42.518336,,Projecting,,1,,,1.6,,,,,,,,50487,,,,40,,,,3.8,Pipe Arch/Elliptical Culvert,2.6,0.2,4.2,,Metal,,,,,,,,,,,,2.7
+51597,,,,,,,,,,,Culvert,,,,,,,,-73.82265,42.51935,,Projecting,,1,,,0.6,,,,,,,,50492,,,,23,,,,3.1,Pipe Arch/Elliptical Culvert,5.1,0.3,8.3,,Metal,,,,,,,,,,,,6
+51599,,,,,,,,,,,Culvert,,,,,,,,-73.82301,42.51947,,Projecting,,1,,,1.1,,,,,,,,50494,,,,23.4,,,,3.5,Pipe Arch/Elliptical Culvert,8,0.4,9,,Metal,,,,,,,,,,,,5.4
+51610,,,,,,,,,,,Culvert,,,,,,,,-73.846717,42.527833,,Headwall and Wingwalls,,1,,,10,,,,,,,,50504,,,,95.8,,,,14.4,Box/Bridge with Abutments,9.8,0.6,9.8,,Concrete,,,,,,,,,,,,0
+51611,,,,,,,,,,,Culvert,,,,,,,,-73.849116,42.507646,,Headwall,,1,,,1.6,,,,,,,,50505,,,,35.8,,,,0.6,Open Bottom Arch Bridge/Culvert,0,0,1.6,,Concrete,,,,,,,,,,,,0
+51612,,,,,,,,,,,Culvert,,,,,,,,-73.90745,42.48272,,Headwall and Wingwalls,,1,,,1.2,,,,,,,,50506,,,,49.1,,,,3.3,Pipe Arch/Elliptical Culvert,2.5,0.4,9.3,,Metal,,,,,,,,,,,,2.5
+52983,,,,,,,,,,,Culvert,,,,,,,,-73.850174,42.463373,,Headwall and Wingwalls,,1,,,2.1,,,,,,,,51762,,,,42,,,,5.9,Pipe Arch/Elliptical Culvert,8.4,1.2,8.5,,Metal,,,,,,,,,,,,4.3
+52989,,,,,,,,,,,Culvert,,,,,,,,-73.927532,42.468583,,Projecting,,1,,,3.8,,,,,,,,51770,,,,65.5,,,,10,Pipe Arch/Elliptical Culvert,10.9,0.2,16.3,,Metal,,,,,,,,,,,,2.5
+52990,,,,,,,,,,,Culvert,,,,,,,,-73.922227,42.468015,,Headwall and Wingwalls,,1,,,0.5,,,,,,,,51771,,,,51.4,,,,4.6,Pipe Arch/Elliptical Culvert,7.6,0.3,7.8,,Metal,,,,,,,,,,,,3
+53037,,,,,,,,,,,Culvert,,,,,,,,-73.94312,42.536726,,Mitered to Slope,,1,,,2.6,,,,,,,,51823,,,,61.2,,,,2.6,Round Culvert,0.5,0.05,2.3,,Plastic,,,,,,,,,,,,8.2
+53038,,,,,,,,,,,Culvert,,,,,,,,-73.907047,42.53264,,Projecting,,1,,,2.7,,,,,,,,51824,,,,40.2,,,,3.6,Pipe Arch/Elliptical Culvert,9.1,0.4,15.5,,Metal,,,,,,,,,,,,2.5
+53041,,,,,,,,,,,Culvert,,,,,,,,-73.89482,42.530194,,Headwall and Wingwalls,,1,,,4.9,,,,,,,,51829,,,,44.6,,,,4.2,Box Culvert,3.1,0.05,4,,Concrete,,,,,,,,,,,,2.5
+54470,,,,,,,,,,,Culvert,,,,,,,,-74.223714,42.531377,,Headwall and Wingwalls,,1,,,6.4,,,,,,,,53065,,,,34,,,,2.5,Round Culvert,1,0.2,2.5,,Combination,,,,,,,,,,,,-1
+54882,,,,,,,,,,,Culvert,,,,,,,,-73.877924,42.468462,,Wingwalls,,1,,,2.5,,,,,,,,53476,,,,42,,,,3.3,Box/Bridge with Abutments,0,0,12,,Concrete,,,,,,,,,,,,1.3
+48990,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.941935,42.45333,,Projecting,,3,,,1.5,,,,,,,,48300,,,,80,,,,4.1,Round Culvert,1.2,0.2,3.9,,Metal,,,,,,,,,,,,2.4
+48990,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.941935,42.45333,,Projecting,,3,,,1.5,,,,,,,,48301,,,,80,,,,3.9,Round Culvert,1.7,0.3,3.9,,Metal,,,,,,,,,,,,3
+48990,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.941935,42.45333,,Projecting,,3,,,1.5,,,,,,,,48302,,,,80,,,,5,Round Culvert,1.4,0.1,4.8,,Metal,,,,,,,,,,,,0.9
+52984,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.849045,42.465732,,Headwall,,2,,,1.4,,,,,,,,51763,,,,50,,,,1.8,Round Culvert,0.9,0.1,1.9,,Metal,,,,,,,,,,,,2.3
+52984,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.849045,42.465732,,Headwall,,2,,,1.4,,,,,,,,51764,,,,50,,,,1.9,Round Culvert,0.9,0.1,1.8,,Metal,,,,,,,,,,,,-1
+52985,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.852071,42.467262,,Headwall,,2,,,2.1,,,,,,,,51765,,,,40,,,,1.9,Round Culvert,0.6,0.05,2,,Metal,,,,,,,,,,,,0.7
+52985,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.852071,42.467262,,Headwall,,2,,,2.1,,,,,,,,51766,,,,40,,,,2,Round Culvert,0.5,0.05,2,,Metal,,,,,,,,,,,,1.9
+53039,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.897665,42.530916,,Headwall,,4,,,3.2,,,,,,,,51825,,,,43,,,,3.6,Pipe Arch/Elliptical Culvert,0,0,5,,Metal,,,,,,,,,,,,1
+53039,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.897665,42.530916,,Headwall,,4,,,3.2,,,,,,,,51826,,,,43,,,,3.6,Pipe Arch/Elliptical Culvert,0,0,5.3,,Metal,,,,,,,,,,,,1
+53039,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.897665,42.530916,,Headwall,,4,,,3.2,,,,,,,,51827,,,,43,,,,5.2,Pipe Arch/Elliptical Culvert,0,0,3.6,,Metal,,,,,,,,,,,,1.3
+53039,,,,,,,,,,,Multiple Culvert,,,,,,,,-73.897665,42.530916,,Headwall,,4,,,3.2,,,,,,,,51828,,,,43,,,,5.2,Pipe Arch/Elliptical Culvert,0,0,3.6,,Metal,,,,,,,,,,,,1.2
+52982,,,,,,,,,,,Partially Inaccessible,,,,,,,,-73.822704,42.507895,,Projecting,,1,,,0.3,,,,,,,,51761,,,,36.6,,,,6.2,Round Culvert,2,0.1,6.2,,Metal,,,,,,,,,,,,2.5
