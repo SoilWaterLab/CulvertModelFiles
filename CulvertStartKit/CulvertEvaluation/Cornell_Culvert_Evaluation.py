@@ -57,7 +57,7 @@ import numpy, os, re, csv, runoff, capacity_prep, capacity, return_periods, time
 # 0. LOAD LIST OF COUNTY FILES
 
 # Propmts user to input county file name, and corrects to proper '.csv' format
-data_path = raw_input('Enter path folder containing this script and your data folder, for example: C:\Users\Tanvi\Desktop\Cornell_CulvertModel_StartKit_Nov2016\All_Scripts\: ')
+data_path = raw_input('Enter path to your data folder, for example: C:\Users\Public\Documents\ALB_TestRun\CulvertStartKit\CulvertEvaluation\ALB\: ')
 check = raw_input('Master file called county_list.csv? Enter Y if correct, else enter correct file name')  # simplifies running a bit
 if (check == "Y" or check == "y"):
     counties_filename = "county_list.csv"
